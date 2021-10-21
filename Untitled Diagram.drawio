@@ -1,1 +1,77 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T13:37:20.424Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="CsUgtDivEP8Rf7bKYFoM" version="15.5.8" type="github"><diagram id="5o94dlKpHoZovhi-SqGP" name="Page-1">7Vtdl6o2FP01ebx3AQmQPIIfnZeu3q7panv7xkAU1qCxGEftr28SAgpkPpxRcXR0LQ2HEGHvnXOSkwjgYLb5pYgW6a8soTlwrGQD4BA4jo2IJb6kZVtaXOKUhmmRJbrSznCf/Ue1UV83XWUJXTYqcsZyni2axpjN5zTmDVtUFGzdrDZhefNXF9GUdgz3cZR3rX9lCU9LK3b8nf2OZtO0+mXbI+WZWVRV1k+yTKOErfdMcATgoGCMl6XZZkBzCV6FS3nd+Jmz9Y0VdM7fcsEf/k9vQzZ3Fh3/Fj2x1T9/PvJvupWnKF/pBwYjBMIBCCww8gBGgIzByAWEgADr5+DbCpyCreYJle1bAIbrNOP0fhHF8uxayEHYUj7LxZEtipMszwcsZ4W6Fj7YSTKRly15wR7p3hnb8iERbYT63mjB6ebZh7ZrKIUGKZtRXmxFFX0B0uBr9WF9uN5RaVf8pHs0etoWafVM64Z3AIuCxvgAvB0D3p5ENwzACAMMQTiUeIcWwGNpEYeB9wmBvzjkoRl5CPBQSX4IyEAhL7iAsiDwD61PiDy6NOT9LvIfQnX5SHmc6rotiCeufEs7m/M9e/kyQe+p10m8je29EXp4MuzJzWDvXR741Rim5XNCDAKiCsLVqOgqnL9w8u8KvPbHOHuIYpwYuXEgQm5ypH7hNqnxDdTY53RJtmtgRrn8QKDuA+zLUCwpsgBBVXyAt0NR7cr6o8gQNiQzI0WRCwJHUeQDEgJiK64EgaEK6kPZr66LEGgK4+clBBsIEQNU0RNcRQiUvUXyACU5N9NVkNs7M4YoL5gR41ksCkQFHHit8EO7b/ihKcy7cl4hnJXsBljN7pD8LD0VcXVXEXWCkR4BEPjZmfEuLs7Dbn7j9yBk/NqQ7j9cQ1NmA8tYHQylDxL+X06rlQV7qn+IcnhtRPQfpqEp0fGiN8KkGjcNpPHKGOk/PENkZESMW0Pl+8Uwtsz1XXnX6D9QG2Z9V5oNeUsqCp43GwK919FfptFCFic53QRy9UagQeeJLg7jPFous1iBFxW8a97jptlbGkzFq+KppphuMv63riXLP6X9u+35+ni42as43O4d/KBFJqChhVkASUTxJDYSHWP6MKmJpklnCapFs8CIrYqYvoCub5bDfl+zDHTXxoLmEc+emjdi0oD+jR8sE7dY6812m3qrtVU1UT6AvmqnpE5DbeE67YYE8VPKOw0JLUTbvWoLWWHZEW0NzQd0/Iacag86Pp36elSVdyJVdRp6RlXH0gwyTBG/NHMWzaBjaabT0Kk1Y1ibvwDNfIZ42Z/6XK8Tvr7bzvsE2F7RurxQiAyT/guQ6C0I692hsK2qs4dCQ37iSzNn0cy7Q2FbM2cPhaYMSp3B8mWyJOgu+ImGs8WSShK1nuKcrZLXp/XNHMCLmZSz7OjxnCb8powWeklHR5/LI1Mmxcu5Tnc0ePD+XbHqxLel2uAZiAoOWmx2J0VpKr/vomLG5tuqMXFzZXvl2Q7FR0uJJVZMqWMi0vVc2z8SkU5rlmxaIIEmj3CypAwyJWUOI9J2jERmEHt2lXBW6WW5dO+rXY5Btc2CyJ0Wp+daNKt3Fjuor3Rom3tjLz5rOhSZNuYdyD00cR+nULgjTX29sQZ+UV8NuXpfrUOGvRyHUu+aqE+1/xYMh1D1e19+kvGNUo1g71Sb0pUHUk1MVK/pw42Q2t5R3b/rrm7gI6T6JlK768HRYnGjNPfvpl1TCvBAmvErNGMQ2CDAt0vzKV20ONz9waucDe/+JgdH/wM=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-21T13:58:39.732Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="ZJrqgNOsEmy-oors_k8o" version="15.5.8" type="github">
+  <diagram id="5o94dlKpHoZovhi-SqGP" name="Page-1">
+    <mxGraphModel dx="1038" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4UmEvJFVAbcUUE7-bhK3-1" value="&lt;font style=&quot;font-size: 17px&quot;&gt;图像识别&lt;br&gt;小车巡逻&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4UmEvJFVAbcUUE7-bhK3-2" value="监测化工厂&lt;br&gt;&amp;nbsp; &amp;nbsp;温适度、&lt;br&gt;可燃气体浓度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4UmEvJFVAbcUUE7-bhK3-3" value="开启预报警系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="160" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4UmEvJFVAbcUUE7-bhK3-4" value="一键报警" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="430" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4UmEvJFVAbcUUE7-bhK3-5" value="开启环境微调" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="430" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4UmEvJFVAbcUUE7-bhK3-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=17;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4UmEvJFVAbcUUE7-bhK3-1" target="4UmEvJFVAbcUUE7-bhK3-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="290" as="sourcePoint" />
+            <mxPoint x="240" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4UmEvJFVAbcUUE7-bhK3-9" value="&lt;font style=&quot;font-size: 12px&quot;&gt;数据超出自定义阈值&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;fontSize=17;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4UmEvJFVAbcUUE7-bhK3-2" target="4UmEvJFVAbcUUE7-bhK3-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="110" as="sourcePoint" />
+            <mxPoint x="230" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4UmEvJFVAbcUUE7-bhK3-10" value="&lt;font style=&quot;font-size: 11px&quot;&gt;数据在可控范围内&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;fontSize=17;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4UmEvJFVAbcUUE7-bhK3-2" target="4UmEvJFVAbcUUE7-bhK3-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="120" as="sourcePoint" />
+            <mxPoint x="240" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4UmEvJFVAbcUUE7-bhK3-11" value="&lt;font style=&quot;font-size: 12px&quot;&gt;获得控制端请求后&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;fontSize=17;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4UmEvJFVAbcUUE7-bhK3-3" target="4UmEvJFVAbcUUE7-bhK3-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="130" as="sourcePoint" />
+            <mxPoint x="250" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4UmEvJFVAbcUUE7-bhK3-12" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;fontSize=12;size=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="190" width="20" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4UmEvJFVAbcUUE7-bhK3-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="260" as="sourcePoint" />
+            <mxPoint x="640" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4UmEvJFVAbcUUE7-bhK3-14" value="&lt;font style=&quot;font-size: 14px&quot;&gt;数据智能问答&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="640" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4UmEvJFVAbcUUE7-bhK3-16" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4UmEvJFVAbcUUE7-bhK3-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="215" as="sourcePoint" />
+            <mxPoint x="120" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="190" />
+              <mxPoint x="60" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4UmEvJFVAbcUUE7-bhK3-17" value="&lt;font style=&quot;font-size: 15px&quot;&gt;数据云端处理&lt;/font&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="60" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
